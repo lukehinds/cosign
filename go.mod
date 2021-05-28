@@ -12,7 +12,7 @@ require (
 	github.com/google/go-containerregistry v0.4.1
 	github.com/google/trillian v1.3.13
 	github.com/manifoldco/promptui v0.8.0
-	github.com/open-policy-agent/opa v0.27.1
+	github.com/open-policy-agent/opa v0.29.1
 	github.com/peterbourgon/ff/v3 v3.0.0
 	github.com/pkg/errors v0.9.1
 	github.com/sigstore/fulcio v0.0.0-20210405115948-e7630f533fca
