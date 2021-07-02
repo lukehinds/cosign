@@ -330,6 +330,8 @@ github.com/buildpacks/lifecycle v0.10.2/go.mod h1:8qFbbL4AvcB8hrb1wFuaf5H86JF9Nj
 github.com/buildpacks/pack v0.18.1/go.mod h1:TnfbYQhdYmeIL9gECw/OwguT/fIpN2/rT9t+hSQK8PM=
 github.com/bytecodealliance/wasmtime-go v0.27.0 h1:b/mvyw1YJSwF5zNxqLH9V24ENkZGAvp+KgIKHOFHk1c=
 github.com/bytecodealliance/wasmtime-go v0.27.0/go.mod h1:q320gUxqyI8yB+ZqRuaJOEnGkAnHh6WtJjMaT2CW4wI=
+github.com/bytecodealliance/wasmtime-go v0.28.0 h1:JTWP482wkmR79O9T0JiIAllPqmNW5oP0v56v/FwCpaQ=
+github.com/bytecodealliance/wasmtime-go v0.28.0/go.mod h1:q320gUxqyI8yB+ZqRuaJOEnGkAnHh6WtJjMaT2CW4wI=
 github.com/c2h5oh/datasize v0.0.0-20171227191756-4eba002a5eae/go.mod h1:S/7n9copUssQ56c7aAgHqftWO4LTf4xY6CGWt8Bc+3M=
 github.com/caarlos0/ctrlc v1.0.0/go.mod h1:CdXpj4rmq0q/1Eb44M9zi2nKB0QraNKuRGYGrrHhcQw=
 github.com/campoy/unique v0.0.0-20180121183637-88950e537e7e/go.mod h1:9IOqJGCPMSc6E5ydlp5NIonxObaeu/Iub/X03EKPVYo=
@@ -1425,6 +1427,8 @@ github.com/onsi/gomega v1.11.0/go.mod h1:azGKhqFUon9Vuj0YmTfLSmx0FUwqXYSTl5re8lQ
 github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
 github.com/open-policy-agent/opa v0.29.4 h1:rNa/Gd3Fs0xWgL0aZoyblRwCZLJsSLDQOhnck6DWpaA=
 github.com/open-policy-agent/opa v0.29.4/go.mod h1:ZCOTD3yyFR8JvF8ETdWdiSPn9WcF1dXeQWOv7VoPorU=
+github.com/open-policy-agent/opa v0.30.0 h1:m8KqIiPMA4ITm3o5G7druz19V5rs07RYqb6mYdnG4QM=
+github.com/open-policy-agent/opa v0.30.0/go.mod h1:+Bv1G/E7Irxgm5zLNXiHuxYqMaqJUSKyBhIGxeneoGA=
 github.com/opencontainers/go-digest v0.0.0-20170106003457-a6d0ee40d420/go.mod h1:cMLVZDEM3+U2I4VmLI6N8jQYUd2OVphdqWwCJHrFt2s=
 github.com/opencontainers/go-digest v0.0.0-20180430190053-c9281466c8b2/go.mod h1:cMLVZDEM3+U2I4VmLI6N8jQYUd2OVphdqWwCJHrFt2s=
 github.com/opencontainers/go-digest v1.0.0-rc1/go.mod h1:cMLVZDEM3+U2I4VmLI6N8jQYUd2OVphdqWwCJHrFt2s=
